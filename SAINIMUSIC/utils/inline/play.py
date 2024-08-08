@@ -54,8 +54,8 @@ def stream_markup_timer(_, chat_id, played, dur):
         bar = "—————————◉"
     buttons = [
         [
-            InlineKeyboardButton(text="🦋ʜᴇʟᴘ🦋", url="https://t.me/+kuDzH8NAnQU5Y2Y1"),
-            InlineKeyboardButton(text="🍒ᴏᴡɴᴇʀ🍒", url="https://t.me/attitude_boy43"),
+            InlineKeyboardButton(text="🦋ʜᴇʟᴘ🦋", url="https://t.me/+hni6cFQBYpExMjg1"),
+            InlineKeyboardButton(text="🍒ᴏᴡɴᴇʀ🍒", url="https://t.me/Genius_431"),
         ],
 
   [
